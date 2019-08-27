@@ -5,3 +5,8 @@ License: GPL (>= 2)
 MD5sum: 96a3a1f4d859b60fc83066f66e9d4761
 NeedsCompilation: no
 
+Package: tashudata
+Version: 0.1.0
+License: GPL (>= 2)
+MD5sum: 02f86f91c6b10118d60f2b35e75a1123
+NeedsCompilation: no
